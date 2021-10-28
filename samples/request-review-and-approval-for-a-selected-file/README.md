@@ -14,8 +14,6 @@ This flow utilizes a SharePoint document library and Approvals to request that a
 
 ## Compatibility
 
-> Don't worry about this section, we'll take care of it. Unless you really want to...
-
 ![Premium License](https://img.shields.io/badge/Premium%20License-Not%20Required-green.svg "Premium license not required")
 ![On-Premises Connectors](https://img.shields.io/badge/On--Premises%20Connectors-No-green.svg "Does not use on-premise connectors")
 ![Custom Connectors](https://img.shields.io/badge/Custom%20Connectors-Not%20Required-green.svg "Does not use custom connectors")
